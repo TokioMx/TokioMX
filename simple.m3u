@@ -1,0 +1,4 @@
+#EXTM3U
+# @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTINF:-1 radio="true" tvg-id="CadenaS.Radio" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Populares" tvg-name="Cadena SER",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
