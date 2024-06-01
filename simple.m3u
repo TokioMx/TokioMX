@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:0, tvg-logo="https://dw-anime.net/wp-content/uploads/2024/04/Jiisan-Baasan.jpg" tvg-name="Jiisan Baasan Wakagaeru Sub Español"  group-title="Jiisan Baasan Wakagaeru",Cap 1
 https://www.googleapis.com/drive/v3/files/1e1rvyW1n0SYjwHbXVFnsUY6zosB-LWxC?alt=media&key=AIzaSyDAw6nRbJOOWaPWTr2P4mmIqq86vRgG-ok
+
+#EXTINF:0, tvg-logo="https://www3.animeflv.net/uploads/animes/covers/3989.jpg" tvg-name="Kenka Dokugaku Sub Español"  group-title="Kenka Dokugaku",Cap 1
+https://www.googleapis.com/drive/v3/files/1fqeTddojmYnDW77PlfrYBZLjHHt6TcY8?alt=media&key=AIzaSyDAw6nRbJOOWaPWTr2P4mmIqq86vRgG-ok
